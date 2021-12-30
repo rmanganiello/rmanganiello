@@ -2,7 +2,7 @@
 
 ## I'm a Developer !!
 
-- 🔭 I’m currently working on creating a SQLite Flutter plugin for Tizen OS.
+- 🔭 I’m currently working on improving MercadoPago Python SDK.
 - 🌱 I’m currently learning SQLite, C++ and Flutter.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about Python, Git, Web Development, Elasticsearch.
