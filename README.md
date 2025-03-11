@@ -2,8 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" height="160px" />
 
-I am a **Senior Software Developer** with over **10 years of experience** in the industry, specializing in building scalable, efficient, and high-performance solutions. My passion for **software quality**, **best practices**, and **detailed documentation** has allowed me to contribute to multidisciplinary teams and work on complex projects. I focus on developing robust applications, with a deep understanding of **microservices**, **APIs**, **databases**, and **modern architectures**.
+I am a **Senior Software Developer** with over **10 years of experience** in the industry, specializing in building scalable, efficient, and high-performance solutions. I hold a **degree in Information Systems Engineering** 🎓, which has provided me with a strong foundation in **software architecture, data structures, and system design**.  
 
+My passion for **software quality**, **best practices**, and **detailed documentation** has allowed me to contribute to multidisciplinary teams and work on complex projects. I focus on developing robust applications, with a deep understanding of **microservices**, **APIs**, **databases**, and **modern architectures**.
 
 ## 💡 **What Drives Me**
 
